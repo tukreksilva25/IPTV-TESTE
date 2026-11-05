@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVCamara.br" group-title="Canais Públicos",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-id="TVSenado.br" group-title="Canais Públicos",TV Senado
+https://tv.senado.leg.br/hls/tv-senado.m3u8
+#EXTINF:-1 tvg-id="TVBrasil.br" group-title="Canais Públicos",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="TVCultura.br" group-title="Canais Públicos",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
