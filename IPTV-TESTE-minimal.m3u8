@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1,TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1,Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
